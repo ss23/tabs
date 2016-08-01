@@ -5,4 +5,4 @@ This work provides a means to use tabs to indent code. Provided examples are a s
 
 ## License
 
-Spaces is licensed under BSD 2-Clause which can be found in LICENSE included in this repository.
+tabs is licensed under BSD 2-Clause which can be found in LICENSE included in this repository.
